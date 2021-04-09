@@ -1,0 +1,40 @@
+body {
+    font: 20pt arial;
+    color: rgb(2, 83, 83);
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    font: 35pt arial;
+    color: darkcyan;
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    font: 30pt arial;
+    color: darkcyan;
+}
+
+h3 {
+    font: 20pt arial;
+    background-color: white;
+    color: darkcyan;
+}
+
+ul {
+    font: 25pt arial;
+}
+
+li {
+    font: 20pt arial;
+}
+
+a {
+    font: 20pt arial;
+    color: darkgrey;
+}
+
+.responsive {
+    width: 50%;
+    height: auto;
+}
