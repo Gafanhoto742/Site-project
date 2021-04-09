@@ -4,10 +4,16 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+
 h1 {
     font: 35pt arial;
     color: darkcyan;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    width: auto;
 }
 
 h2 {
@@ -15,10 +21,13 @@ h2 {
     color: darkcyan;
 }
 
-h3 {
-    font: 20pt arial;
-    background-color: white;
-    color: darkcyan;
+main {
+    background-color: rgb(34, 34, 34);
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+    box-shadow: 4px, 4px, 6px rgb(122, 122, 122);
+    padding: 10px;
 }
 
 ul {
@@ -37,4 +46,8 @@ a {
 .responsive {
     width: 50%;
     height: auto;
+}
+
+abbr {
+    font: 30pt arial;
 }
