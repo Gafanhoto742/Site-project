@@ -25,7 +25,7 @@ main {
     background-color: rgb(34, 34, 34);
     margin: auto;
     width: 1000px;
-    height: 1000px;
+    height: auto;
     box-shadow: 4px, 4px, 6px rgb(122, 122, 122);
     padding: 10px;
 }
@@ -50,4 +50,12 @@ a {
 
 abbr {
     font: 30pt arial;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300pt;
 }
