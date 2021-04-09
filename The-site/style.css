@@ -4,6 +4,11 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
 h1 {
     font: 35pt arial;
     color: darkcyan;
@@ -15,10 +20,12 @@ h2 {
     color: darkcyan;
 }
 
-h3 {
-    font: 20pt arial;
-    background-color: white;
-    color: darkcyan;
+main {
+    background-color: grey;
+    margin: auto;
+    width: 500px;
+    box-shadow: 4px, 4px, 6px rgba(0, 41, 41, 0.719);
+    padding: 10px;
 }
 
 ul {
