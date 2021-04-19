@@ -1,2 +1,2 @@
 # Site-project
-This site about the ISS (international spacial station)
+This site is about the ISS (international spacial station)
