@@ -58,4 +58,17 @@ abbr {
     margin-right: auto;
     width: 50%;
     height: 300pt;
+    box-shadow: white 3px, 3px, 5px;
+}
+
+.right {
+    float: right;
+    height: 35px;
+    width: 45px;
+}
+
+.left {
+    float: left;
+    height: 35px;
+    width: 45px;
 }
